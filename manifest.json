@@ -1,0 +1,8 @@
+{
+    "name": "Task Manager PWA",
+    "short_name": "TaskPWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#28a745"
+}
